@@ -1,0 +1,10 @@
+{
+    "license": "license.md",
+    "cover": "cover.md",
+    "chapters": [
+        {
+            "content": "preface.md"
+        }
+    ],
+    "version": "1.0"
+}
